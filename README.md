@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto foi criado juntamente ao bootcampo Mobile Developer da \[Digital Innovation One (DIO)](https://www.dio.me/) visando o aperfeiçoamento na utilização de pacotes e na organização de códigos.
+Este projeto foi criado juntamente ao bootcampo Mobile Developer da [Digital Innovation One (DIO)](https://www.dio.me/) visando o aperfeiçoamento na utilização de pacotes e na organização de códigos.
 
 
 

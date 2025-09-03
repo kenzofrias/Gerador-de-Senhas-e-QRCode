@@ -17,14 +17,14 @@ Primeiramente o usuário digita o tipo de ação que deseja receber (QrCode ou S
 ## Demonstração
 
 ```mermaid
-graph TD;
-  index-->create password;
-  index-->create qrcode;
-  index-->prompt main;
-  create password-->handle password;
-  handle password-->permitted characters;
-  create qrcode-->handle qrcode;
-  create qrcode--->prompt qrcode;
+graph TD
+  D-->B[create password]
+  D-->C[create qrcode]
+  A[index]-->D[prompt main]
+  B-->E[handle password]
+  E-->F[permitted characters]
+  C-->G[handle qrcode]
+  C-->H[prompt qrcode]
 ```
 
 

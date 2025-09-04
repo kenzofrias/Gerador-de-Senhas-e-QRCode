@@ -37,7 +37,6 @@ graph TD
 ## Tecnologias
 
 ![](https://img.shields.io/badge/-Node.js-217a00?logo=nodedotjs\&logoColor=white\&style=plastic)
-
 ![](https://img.shields.io/badge/-JavaScript-fbff00?logo=javascript\&logoColor=white\&style=plastic)
 
 
